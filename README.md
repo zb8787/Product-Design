@@ -1,6 +1,6 @@
 # Product Design
 
-## Literary Review
+## Literature Review
 A background research paper on the topic of Multi-Speaker identification.
 
 ## Twitter Natural Language Processing Demo
