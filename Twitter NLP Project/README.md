@@ -50,4 +50,4 @@ A sentiment analysis tool for trending twitter hashtags. Scalable to the API lim
 * As a trader, I want to base my next trade on the sentiment (bearish/bullish) of a trending hashtag.
 * As an influencer, I want to base my next tweet on the average sentiment of a certain hashtag.
 * As a real estate developer, I want to make my next purchase based on the sentiment of trending tweets in a certain location.
-* As a campaign manager, I want to determine if my candidate is performing well. I want to determine if they are performing well or poorly in certain locations.
+* As a campaign manager, I want to determine if my candidate is performing well or poorly in certain locations.
