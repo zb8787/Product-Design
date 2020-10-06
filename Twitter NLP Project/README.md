@@ -14,7 +14,7 @@ Consists of a sentiment analysis method which applies the google cloud NLP api t
 You will need to go through the Google Cloud installation process to procure the proper keys, accounts, and packages: https://cloud.google.com/natural-language \
 \
 \
-**Workflow**\
+## Workflow
 Run twitter_api_demo2_without_keys.ipynb to scrape the desired tweets.\
 Run the sentiment_analysis.py script:\
 `python sentiment_analysis.py hashtag.txt`\
