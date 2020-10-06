@@ -41,7 +41,7 @@ Results output to the shell are similar to the following (depending on your desi
 `Sentence 17 has a sentiment score of -0.10000000149011612`\
 `Sentence 18 has a sentiment score of 0.4000000059604645`\
 `Sentence 19 has a sentiment score of 0.20000000298023224`\
-`Overall Sentiment: score of 0.0 with magnitude of 6.5`\
+`Overall Sentiment: score of 0.0 with magnitude of 6.5`
 
 In twitter_api_demo2_without_keys.ipynb, use the `trends_closest(lat,long)` method to determine locations with trending hashtags and their WOEID. Use `trends_place(woe_id)` method to determine the hashtags trending at a location specified by its WOEID. Use the hashtags obtained via this method to perform sentiment analysis as desired.
 ## MVP
