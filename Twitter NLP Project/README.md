@@ -46,6 +46,6 @@ Results output to the shell are similar to the following (depending on your desi
 ## MVP
 A sentiment analysis tool for trending twitter hashtags. Scalable to the API limits for tweet scraping. Modular, can apply any of the twitter methods in the demo script.
 ## User Stories
-* As a trader, I want to base my next trade on the sentiment (bearish/bullish) of a trending hashtag.\
-* As an influencer, I want to base my next tweet on the average sentiment of a certain hashtag.\
-* As a real estate developer, I want to make my next purchase based on the sentiment of trending tweets in a certain location.\
+* As a trader, I want to base my next trade on the sentiment (bearish/bullish) of a trending hashtag.
+* As an influencer, I want to base my next tweet on the average sentiment of a certain hashtag.
+* As a real estate developer, I want to make my next purchase based on the sentiment of trending tweets in a certain location.
