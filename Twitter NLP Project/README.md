@@ -11,7 +11,7 @@ Specify your desired hashtag below the search function of the pull-methods.\
 \
 **(2) sentiment_analysis.py**\
 Consists of a sentiment analysis method which applies the google cloud NLP api to a text file filled with tweets from a requested hashtag. Outputs a sentiment score from -1 to 1, 1 being the most positive sentiment and -1 being the most negative sentiment.\
-You will need to go through the Google Cloud installation process to procure the proper keys, accounts, and packages: https://cloud.google.com/natural-language \
+You will need to go through the Google Cloud installation process to procure the proper keys, accounts, and packages: https://cloud.google.com/natural-language
 
 
 ## Workflow
