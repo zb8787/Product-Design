@@ -1,9 +1,9 @@
-# Project 2
-This demo performs sentiment analysis on a set of tweets specified by a hashtag based on user input. The sentiment analysis is done via Google Cloud natural language API.\
+# Twitter NLP Demo
+This demo performs sentiment analysis on a set of tweets specified by a hashtag based on user input. The sentiment analysis is done via Google Cloud natural language API.
 The tweets are scraped via tweepy python package.
 ## Files:
 **(1) twitter_api_demo2_without_keys.ipynb**\
-Consists of a series of methods demonstrating the functionality of the twitter api. The tweepy package is used to interface with the api.\
+Consists of a series of methods demonstrating the functionality of the twitter api. Also performs the tweet scraping method. The tweepy package is used to interface with the api.\
 To use this file, install tweepy, pandas, and numpy.\
 You will also need to create a developer account with twitter, and enter your secret keys and tokens in the first 4 lines of the demo file.\
 You will also need to specify a directory on your local machine to write the results of the tweet API call.\
@@ -15,6 +15,7 @@ You will need to go through the Google Cloud installation process to procure the
 \
 \
 **Workflow**\
+Run the twitter_api_2_without_keys.ipynb to scrape the desired tweets.\
 Run the sentiment_analysis.py script:\
 `python sentiment_analysis.py hashtag.txt`\
 \
