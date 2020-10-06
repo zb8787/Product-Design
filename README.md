@@ -1,7 +1,7 @@
-# EC601 central readme
+# Product Design
 
-## Project 1
+## Literary Review
 A background research paper on the topic of Multi-Speaker identification.
 
-## Project 2
+## Twitter Natural Language Processing Demo
 A program to perform sentiment analysis on a user-defined hashtag. The script scrapes tweets from twitter with the specified hashtag, and performs sentiment analysis on those tweets using Google Cloud Natural Language API.
