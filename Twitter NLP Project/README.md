@@ -15,7 +15,7 @@ You will need to go through the Google Cloud installation process to procure the
 \
 \
 **Workflow**\
-Run the twitter_api_demo2_without_keys.ipynb to scrape the desired tweets.\
+Run twitter_api_demo2_without_keys.ipynb to scrape the desired tweets.\
 Run the sentiment_analysis.py script:\
 `python sentiment_analysis.py hashtag.txt`\
 \
