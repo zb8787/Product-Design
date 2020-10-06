@@ -15,7 +15,7 @@ You will need to go through the Google Cloud installation process to procure the
 \
 \
 **Workflow**\
-Run the twitter_api_2_without_keys.ipynb to scrape the desired tweets.\
+Run the twitter_api_demo2_without_keys.ipynb to scrape the desired tweets.\
 Run the sentiment_analysis.py script:\
 `python sentiment_analysis.py hashtag.txt`\
 \
@@ -42,3 +42,10 @@ Results output to the shell are similar to the following (depending on your desi
 `Sentence 18 has a sentiment score of 0.4000000059604645`\
 `Sentence 19 has a sentiment score of 0.20000000298023224`\
 `Overall Sentiment: score of 0.0 with magnitude of 6.5`
+
+## MVP
+A sentiment analysis tool for trending twitter hashtags. Scalable to the API limits for tweet scraping. Modular, can apply any of the twitter methods in the demo script.
+## User Stories
+* As a trader, I want to base my next trade on the sentiment (bearish/bullish) of a trending hashtag.\
+* As an influencer, I want to base my next tweet on the average sentiment of a certain hashtag.\
+* As a real estate developer, I want to make my next purchase based on the sentiment of trending tweets in a certain location.\
