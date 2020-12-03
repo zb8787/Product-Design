@@ -15,6 +15,7 @@ You will need to go through the Google Cloud installation process to procure the
 \
 **(3) test_analyze.py**\
 Use this to run unit tests via the pytest package.
+![test_output](https://github.com/zb8787/Product-Design/blob/master/Twitter%20NLP%20Project/test_screenshot.jpg)
 
 ## Workflow
 Run twitter_api_demo2_without_keys.ipynb to scrape the desired tweets.\
@@ -53,3 +54,4 @@ A sentiment analysis tool for trending twitter hashtags. Scalable to the API lim
 * As an influencer, I want to base my next tweet on the average sentiment of a certain hashtag.
 * As a real estate developer, I want to make my next purchase based on the sentiment of trending tweets in a certain location.
 * As a campaign manager, I want to determine if my candidate is performing well or poorly in certain locations.
+d
