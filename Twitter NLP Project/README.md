@@ -14,7 +14,7 @@ Consists of a sentiment analysis method which applies the google cloud NLP api t
 You will need to go through the Google Cloud installation process to procure the proper keys, accounts, and packages: https://cloud.google.com/natural-language \
 \
 **(3) test_analyze.py**\
-Use this to run unit tests via the pytest package.
+Use this to run unit tests via the pytest package. See below image for the output of this test.
 ![test_output](https://github.com/zb8787/Product-Design/blob/master/Twitter%20NLP%20Project/test_screenshot.jpg)
 
 ## Workflow
