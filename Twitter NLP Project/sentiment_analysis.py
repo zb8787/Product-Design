@@ -19,6 +19,7 @@ def analyze(the_filename):
     print_result(annotations)
 	
 def print_result(annotations):
+"""Print result of sentiment analysis"""
     score = annotations.document_sentiment.score
     magnitude = annotations.document_sentiment.magnitude
 
